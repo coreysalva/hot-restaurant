@@ -1,0 +1,22 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "Hot restaurant in class activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreysalva/hot-restaurant.git"
+  },
+  "author": "Corey Salva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreysalva/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/coreysalva/hot-restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
